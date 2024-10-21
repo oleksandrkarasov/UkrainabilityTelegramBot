@@ -1,0 +1,20 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore folders containing voice messages
+decrypted_voices/
+voice_messages/
+
+# Ignore environment and configuration files
+.env
+config.ini
+encryption.key
+
+# Ignore response data files
+responses.csv
+responses.db
+responses2.csv
+responses_unencrypted.csv
+
+# Ignore notebooks containing sensitive information
+Decryption.ipynb
